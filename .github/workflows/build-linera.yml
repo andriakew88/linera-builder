@@ -1,4 +1,3 @@
-# Trigger build linera-service
 name: Build Linera Service
 
 on:
